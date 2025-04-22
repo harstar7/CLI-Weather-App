@@ -5,7 +5,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-const API_KEY = 'b4f31888f8d5e1a56c598a48b167b861';
+const API_KEY = 'Your API_KEY';
 
 async function getWeather() {
     try {
